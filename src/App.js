@@ -1,25 +1,79 @@
-import logo from './logo.svg';
+import {
+  BrowserRouter as Switch, Route
+} from "react-router-dom";
+
 import './App.css';
+import TopMain from './Component/TopMain';
+import About from './Component/About';
+import PatientDashboard from './Component/Patients/PatientDashboard';
+import DoctorDashboard from './Component/Doctors/DoctorDashboard';
+import AdminDashboard from './Component/Admin/AdminDashboard';
+
+{/* This main file all js component file */}
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+
+      <Switch>
+        <TopMain />
+        <Route exact path="/About">
+          <About />
+        </Route>
+
+        <Route exact path="/loggedp">
+          <PatientDashboard />
+        </Route>
+        <Route exact path="/PatienDashHome">
+          <PatientDashboard />
+        </Route>
+        <Route exact path="/P">
+          <PatientDashboard />
+        </Route>
+        <Route exact path="/PatientAppoinment">
+          <PatientDashboard />
+        </Route>
+        <Route exact path="/AppoinmentHistory">
+          <PatientDashboard />
+        </Route>
+
+        <Route exact path="/loggedd">
+          <DoctorDashboard />
+        </Route>
+        <Route exact path="/d">
+          <DoctorDashboard />
+        </Route>
+        <Route exact path="/DoctroDashHome">
+          <DoctorDashboard />
+        </Route>
+        <Route exact path="/AppoinmentDoctor">
+          <DoctorDashboard />
+        </Route>
+
+        <Route exact path="/loggeda">
+          <AdminDashboard />
+        </Route>
+        <Route exact path="/a">
+          <AdminDashboard />
+        </Route>
+        <Route exact path="/AdminDashHome">
+          <AdminDashboard />
+        </Route>
+        <Route exact path="/AppoinmentDetails">
+          <AdminDashboard />
+        </Route>
+        <Route exact path="/DoctorList">
+          <AdminDashboard />
+        </Route>
+        <Route exact path="/PatientList">
+          <AdminDashboard />
+        </Route>
+        <Route exact path="/AddDoctor">
+          <AdminDashboard />
+        </Route>
+      </Switch>
+      
     </div>
   );
 }
-
 export default App;

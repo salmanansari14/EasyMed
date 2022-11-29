@@ -1,0 +1,20 @@
+.about {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 85%;
+    margin: 20px auto;
+}
+
+.box {
+    background-image: linear-gradient(to top, rgb(0, 192, 176), rgb(255, 255, 255));
+    border: 1px solid rgb(206, 206, 206);
+    border-radius: 20px;
+    width: 350px;
+    height: 350px;
+    margin: 10px;
+}
+.fon{
+    font-size: 50px;
+    margin: 25px auto;
+}

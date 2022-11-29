@@ -1,0 +1,120 @@
+.apmnt {
+    background-color: rgba(243, 243, 243, 0);
+    padding: 40px 10px;
+}
+
+.appointment {
+    padding: 30px 10px;
+    /* height: 90vh; */
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+/* .................. For Dashboard item ........................... */
+
+.appitem {
+    display: inline-block;
+    margin: 7px 60px;
+}
+
+.dashitem tr {
+    width: 300px;
+}
+
+.tdd {
+    width: 20px;
+}
+
+.dashitem a {
+    text-decoration: none;
+    color: black;
+    width: 60px;
+    margin: 5px;
+}
+
+.dashitem:hover {
+    background-color: rgb(0, 207, 190);
+    color: white;
+}
+
+.fo {
+    color: rgb(0, 207, 190);
+    font-size: 70px;
+}
+.anc:hover{
+    color: white;
+}
+/* .anc:visited{
+    color: rgb(0, 28, 155);
+} */
+
+
+/* .............. For Appointment form and Adding doctor form .......................... */
+
+
+.appoform {
+    /* border: 1px solid black; */
+    width: 90%;
+    margin: 10px 50px;
+}
+
+.inpappo {
+    display: block;
+    margin: 10px 40px;
+}
+
+.inpp {
+    width: 90%;
+    padding: 7px 10px;
+    margin: 5px;
+}
+
+.btnapp {
+    background-color: rgb(0, 207, 190);
+    border: 1px solid rgba(0, 0, 0, 0.144);
+    color: white;
+    border-radius: 8px;
+    border-style: non;
+    width: 200px;
+    padding: 10px;
+    margin: 1px 20px;
+}
+
+.tbl {
+    border: 1px solid rgb(172, 172, 172);
+    width: 30%;
+    margin: 10px 70px;
+}
+
+/* ...................responsive for dashitem .............. */
+
+@media(max-width:780px) {
+
+    .appointment {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        width: 90%;
+        padding: 0px;
+        margin: 10px auto;
+    }
+    .apmnt {
+        background-color: rgba(243, 243, 243, 0.014);
+        padding: 0px 0px;
+    }
+    .appitem {
+        display: inline-block;
+        margin: 10px 10px;
+    }
+
+    .tbl {
+        border: 1px solid rgb(172, 172, 172);
+        width: 100%;
+        margin: 10px 10px;
+    }
+
+}
