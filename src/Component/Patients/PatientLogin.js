@@ -15,7 +15,7 @@ function PatientLogin() {
                         <input className='loginform' type="text" placeholder='Password' />
                     </div>
                     <div>
-                    <span><a href="/">Don't have an accoutn</a></span>
+                    <span><a href="/salmanansari14/EasyMed.git">Don't have an accoutn</a></span>
                         <button className='buttonn'><a href="/loggedp">Login</a></button>
                     </div>
                 </form>

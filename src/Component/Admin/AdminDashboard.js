@@ -32,7 +32,7 @@ function AdminDashboard() {
                             <td><a className='anc' href='/AddDoctor'>Add Doctor</a></td>
                         </tr>
                         <tr className='dashitem'>
-                            <td><a className='anc' href='/'>LogOut</a></td>
+                            <td><a className='anc' href='/salmanansari14/EasyMed.git'>Log Out</a></td>
                         </tr>
                     </tbody>
                 </table>

@@ -7,7 +7,7 @@
 }
 
 .box {
-    background-image: linear-gradient(to top, rgb(0, 192, 176), rgb(255, 255, 255));
+    background-image: linear-gradient(to top, rgba(0, 163, 192, 0.733), rgb(255, 255, 255));
     border: 1px solid rgb(206, 206, 206);
     border-radius: 20px;
     width: 350px;
@@ -17,4 +17,8 @@
 .fon{
     font-size: 50px;
     margin: 25px auto;
+}
+.box a{
+    text-decoration: none;
+    color: black;
 }

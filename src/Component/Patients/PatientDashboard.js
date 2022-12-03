@@ -12,19 +12,19 @@ function PatientDashboard() {
         <div className='apmnt main'>
             <h1 className='heddash'>Welcome Salman Ansari (Patient)</h1>
             <div className="appointment">
-                <table class=" mx-3 table tbl">
+                <table class="tt mx-3 table tbl">
                     <tbody>
                         <tr className='dashitem'>
-                            <td className='dashitm'><a className='anc' href='/p'> Dashboard</a></td>
+                            <td className='dashitm'><a className='anc' href='/p'>Dashboard</a></td>
                         </tr>
                         <tr className='dashitem'>
-                            <td className='dashitm'><a className='anc' href='/PatientAppoinment'> Book Appointment</a></td>
+                            <td className='dashitm'><a className='anc' href='/PatientAppoinment'>Book Appointment</a></td>
                         </tr>
                         <tr className='dashitem'>
-                            <td className='dashitm'><a className='anc' href='/AppoinmentHistory'> Appointment History</a></td>
+                            <td className='dashitm'><a className='anc' href='/AppoinmentHistory'>Appointment History</a></td>
                         </tr>
                         <tr className='dashitem'>
-                            <td className='dashitm'><a className='anc' href='/'>Log Out</a></td>
+                            <td className='dashitm'><a className='anc' href='/salmanansari14/EasyMed.git'>Log Out</a></td>
                         </tr>
                     </tbody>
                 </table>

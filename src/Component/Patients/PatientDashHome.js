@@ -11,7 +11,7 @@ function PatientDashHome() {
                 <div className='appitem'>
                     <i class="fa-regular fa-calendar-check fo"></i>
                     <h2>My appoinment</h2>
-                    <a href="/AppointmentHistory">View appoinment history</a>
+                    <a href="/AppointmentHistory">View Appoinment History</a>
                 </div>
             </div>
     )

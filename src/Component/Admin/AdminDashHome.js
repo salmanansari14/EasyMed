@@ -4,24 +4,24 @@ function AdminDashHome() {
         <div className='apmnt'>
             <div className="appointment">
                 <div className='appitem'>
-                    <i class="fa-regular fa-calendar-check fo"></i>
+                    <i class="fa-solid fa-user-group fo"></i>
                     <h2>Doctor list</h2>
-                    <a href="/DoctorList">view doctors</a>
-                </div>
-                <div className='appitem'>
-                    <i class="fa-regular fa-calendar-check fo"></i>
-                    <h2>Patient List</h2>
-                    <a href="/PatienList">view Patients</a>
+                    <a href="/DoctorList">View Doctors</a>
                 </div>
                 <div className='appitem'>
                     <i class="fa-regular fa-calendar-check fo"></i>
                     <h2>Appoinments</h2>
-                    <a href="/AppoinmentDetails">View appoinments</a>
+                    <a href="/AppoinmentDetails">View Appoinments</a>
                 </div>
                 <div className='appitem'>
-                    <i class="fa-regular fa-calendar-check fo"></i>
-                    <h2>Manage Doctor</h2>
-                    <a href="/AddDoctor">manage/add doctors</a>
+                    <i class="fa-solid fa-user-group fo"></i>
+                    <h2>Patient List</h2>
+                    <a href="/PatienList">View Patients</a>
+                </div>
+                <div className='appitem'>
+                    <i class="fa-sharp fa-solid fa-user-plus fo"></i>
+                    <h2>Add Doctor</h2>
+                    <a href="/AddDoctor">Manage/Add Doctors</a>
                 </div>
             </div>
         </div>

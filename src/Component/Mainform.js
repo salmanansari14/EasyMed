@@ -16,13 +16,13 @@ function Mainform() {
             <div className='formm'>
                 <div className='formnav'>
                     <ul className='ulform'>
-                        <li className='liform'><a href="/"> Patient</a></li>
-                        <li className='liform'><a href="/Doctor"> Doctor</a></li>
-                        <li className='liform'><a href="/Admin"> Admin</a></li>
+                        <li className='liform'><a href="/salmanansari14/EasyMed.git">Patient</a></li>
+                        <li className='liform'><a href="/Doctor">Doctor</a></li>
+                        <li className='liform'><a href="/Admin">Admin</a></li>
                     </ul>
                 </div>
                 <Switch>
-                    <Route exact path="/">
+                    <Route exact path="/salmanansari14/EasyMed.git">
                         <PatientReg />
                     </Route>
                     <Route exact path="/Doctor">

@@ -21,13 +21,13 @@ function Main() {
                     <b>EasyMed</b>
                 </ul>
                 <ul className={click ? "navul navmob" : "navul"}>
-                    <li className='ulli'> <a className='ali' href="/">  Home </a></li>
+                    <li className='ulli'> <a className='ali' href="/salmanansari14/EasyMed.git">  Home </a></li>
                     <li className='ulli'> <a className='ali' href="/About"> About Us </a></li>
                     <li className='ulli'> <a className='ali' href="/Contact"> Contact </a> </li>
                 </ul>
             </nav>
             <Switch>
-                <Route exact path="/">
+                <Route exact path="/salmanansari14/EasyMed.git">
                     <Mainform />
                 </Route>
                 <Route exact path="/Doctor">

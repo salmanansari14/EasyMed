@@ -4,7 +4,6 @@
 
 .main {
     /* background-image: linear-gradient(to right, rgb(0, 192, 176), rgb(255, 255, 255)); */
-    background-image: url("C:\Users\user\Desktop\Project\asd\src\Component\Images\abcs.jpeg");
     background-image: url("C:\Users\user\Desktop\Project\asd\src\Component\Images\a.jpg");
     width: 100%;
     padding-bottom: 10px;
@@ -24,7 +23,7 @@
 
 .logo {
     padding: 10px 35px;
-
+    
 }
 .logo i {
     display: none;
@@ -32,7 +31,7 @@
 }
 
 .navul {
-
+    
     display: flex;
 }
 
@@ -71,7 +70,7 @@
     .logo i {
         display: block;
         
-    
+        
     }
     .navul {
         
@@ -145,7 +144,7 @@
 }
 
 .ulform {
-    background-color: rgb(0, 207, 190);
+    background-color: rgb(0, 225, 255);
     border-radius: 50px;
     display: flex;
     flex-wrap: wrap;
@@ -163,7 +162,7 @@
 }
 .liform a{
      text-decoration: none;
-     color: black;
+     color: rgb(0, 0, 0);
 }
 .liform:hover {
     background-color: white;
@@ -176,7 +175,7 @@
 }
 
 .spann {
-    color: rgb(0, 175, 161);
+    color: rgb(0, 200, 207);
 }
 
 .ffm {
@@ -187,7 +186,7 @@
 }
 
 .form {
-    background-color: rgb(0, 255, 234);
+    background-color: rgb(0, 200, 207);
 }
 
 .formin {
@@ -198,12 +197,12 @@
     font-size: 17px;
     margin: 10px 10px;
     padding: 5px 15px;
-
+    
 }
 
 .butn {
     border: 1px solid rgba(0, 0, 0, 0.144);
-    background-color: rgb(0, 207, 190);
+    background-color: rgb(0, 225, 255);
     color: white;
     border-style: non;
     border-radius: 8px;
@@ -213,7 +212,7 @@
 }
 .butn a{
     text-decoration: none;
-    color: black;
+    color: rgb(255, 255, 255);
 }
 
 
@@ -246,7 +245,7 @@
         display: none;
     }
     .ulform {
-        background-color: rgb(0, 207, 190);
+        background-color: rgb(0, 200, 207);
         border-radius: 50px;
         display: flex;
         flex-wrap: wrap;
@@ -293,7 +292,7 @@
     font-size: 17px;
     margin: 20px 10px;
     padding: 5px 15px;
-
+    
 }
 
 .loginheading {
@@ -317,7 +316,7 @@
 }
 
 .buttonn {
-    background-color: rgb(0, 207, 190);
+    background-color: rgb(0, 200, 207);
     border: 1px solid rgba(0, 0, 0, 0.144);
     color: white;
     border-radius: 8px;
@@ -332,14 +331,15 @@
 @media(max-width:780px) {
     .patientlogin {
         background-color: rgb(169, 238, 255);
-        background-image: linear-gradient(to right, rgb(0, 192, 176), rgb(255, 255, 255));
+        background-image: linear-gradient(to right, rgb(0, 200, 207), rgb(255, 255, 255));
+        background-image: url("C:\Users\user\Desktop\Project\asd\src\Component\Images\a.jpg");
         display: flex;
         justify-content: center;
         flex-wrap: wrap;
         margin: 50px 0px;
         margin-bottom: 30px;
     }
-
+    
     .loginbran {
         font-size: 35px;
         margin-top: 20px;
@@ -348,7 +348,7 @@
     .loginbrandName {
         display: none;
     }
-
+    
     .loginform {
         background-color: rgba(250, 235, 215, 0);
         border: 0.5px solid rgb(51, 51, 51);

@@ -5,8 +5,8 @@ function DoctorDashHome() {
             <div className="appointment">
                 <div className='appitem'>
                     <i class="fa-regular fa-calendar-check fo"></i>
-                    <h2>appointment</h2>
-                    <a href="/AppointmentDoctor">View appointment</a>
+                    <h2>Appointment</h2>
+                    <a href="/AppointmentDoctor">View Appointment</a>
                 </div>
             </div>
         </div>

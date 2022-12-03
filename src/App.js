@@ -8,6 +8,7 @@ import About from './Component/About';
 import PatientDashboard from './Component/Patients/PatientDashboard';
 import DoctorDashboard from './Component/Doctors/DoctorDashboard';
 import AdminDashboard from './Component/Admin/AdminDashboard';
+import Footer from "./Component/Footer";
 
 {/* This main file all js component file */}
 
@@ -27,7 +28,7 @@ function App() {
         <Route exact path="/PatienDashHome">
           <PatientDashboard />
         </Route>
-        <Route exact path="/P">
+        <Route exact path="/p">
           <PatientDashboard />
         </Route>
         <Route exact path="/PatientAppoinment">
@@ -71,6 +72,7 @@ function App() {
         <Route exact path="/AddDoctor">
           <AdminDashboard />
         </Route>
+        <Footer />
       </Switch>
       
     </div>

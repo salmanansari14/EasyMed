@@ -14,13 +14,13 @@ function DoctorDashboard() {
                 <table class=" w-25 mx-3 table tbl">
                     <tbody>
                         <tr className='dashitem'>
-                            <td className='tdd'> <a className='anc' href='/d'> Dashboard</a></td>
+                            <td className='tdd'> <a className='anc' href='/d'>Dashboard</a></td>
                         </tr>
                         <tr className='dashitem'>
-                            <td className='tdd'> <a className='anc' href="/AppoinmentDoctor"> Appointment Details</a></td>
+                            <td className='tdd'> <a className='anc' href="/AppoinmentDoctor">Appointment Details</a></td>
                         </tr>
                         <tr className='dashitem'>
-                            <td className='tdd'> <a className='anc' href="/"> Log Out</a></td>
+                            <td className='tdd'> <a className='anc' href="/salmanansari14/EasyMed.git">Log Out</a></td>
                         </tr>
                     </tbody>
                 </table>

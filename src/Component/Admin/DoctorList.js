@@ -16,40 +16,28 @@ function DoctorList() {
                     </thead>
                     <tbody>
                         <tr>
-                            <td>Mark</td>
-                            <td>Otto</td>
-                            <td>@mdo</td>
-                            <td>@mdo</td>
+                            <td>Dr. Chaddha</td>
+                            <td>Chaddha#13</td>
+                            <td>chaddhaDr345@gmail.com</td>
+                            <td>1000</td>
                         </tr>
                         <tr>
-                            <td>Jacob</td>
-                            <td>Thornton</td>
-                            <td>@fat</td>
-                            <td>@fat</td>
+                            <td>Dr. Shukla</td>
+                            <td>Skl3214@</td>
+                            <td>shuklaji345@gmail.com</td>
+                            <td>1000</td>
                         </tr>
                         <tr>
-                            <td>Jacob</td>
-                            <td>Thornton</td>
-                            <td>@fat</td>
-                            <td>@fat</td>
+                            <td>Dr. DB Agarwal</td>
+                            <td>123DB@@</td>
+                            <td>agarwal345@gmail.com</td>
+                            <td>1000</td>
                         </tr>
                         <tr>
-                            <td>Jacob</td>
-                            <td>Thornton</td>
-                            <td>@fat</td>
-                            <td>@fat</td>
-                        </tr>
-                        <tr>
-                            <td>Jacob</td>
-                            <td>Thornton</td>
-                            <td>@fat</td>
-                            <td>@fat</td>
-                        </tr>
-                        <tr>
-                            <td>Jacob</td>
-                            <td>Thornton</td>
-                            <td>@fat</td>
-                            <td>@fat</td>
+                            <td>Dr. Khursheed</td>
+                            <td>1Khursheed@@</td>
+                            <td>khursheed90@gmail.com</td>
+                            <td>500</td>
                         </tr>
                     </tbody>
                 </table>

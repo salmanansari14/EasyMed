@@ -10,42 +10,42 @@ function PatientList() {
                             <th scope="col">First Name</th>
                             <th scope="col">Last Name</th>
                             <th scope="col">Email</th>
-                            <th scope="col">Contack</th>
-                            <th scope="col">password</th>
+                            <th scope="col">Contact</th>
+                            <th scope="col">Password</th>
                         </tr>
                     </thead>
                     <tbody>
                         <tr>
-                            <td>Mark</td>
-                            <td>Otto</td>
+                            <td>Adarsh</td>
+                            <td>Mishra</td>
                             <td>@mdo</td>
                             <td>@mdo</td>
                             <td>@mdo</td>
                         </tr>
                         <tr>
-                            <td>Jacob</td>
-                            <td>Thornton</td>
+                            <td>Salman</td>
+                            <td>Ansari</td>
                             <td>@fat</td>
                             <td>@fat</td>
                             <td>@fat</td>
                         </tr>
                         <tr>
-                            <td>Jacob</td>
-                            <td>Thornton</td>
+                            <td>Imran</td>
+                            <td>Shiekh</td>
                             <td>@fat</td>
                             <td>@fat</td>
                             <td>@fat</td>
                         </tr>
                         <tr>
-                            <td>Jacob</td>
-                            <td>Thornton</td>
+                            <td>Ashutosh</td>
+                            <td>Kesarwani</td>
                             <td>@fat</td>
                             <td>@fat</td>
                             <td>@fat</td>
                         </tr>
                         <tr>
-                            <td>Jacob</td>
-                            <td>Thornton</td>
+                            <td>Rizwanul</td>
+                            <td>Hasan</td>
                             <td>@fat</td>
                             <td>@fat</td>
                             <td>@fat</td>
