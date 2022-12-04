@@ -10,7 +10,7 @@ function AdminDashHome() {
                 </div>
                 <div className='appitem'>
                     <i class="fa-regular fa-calendar-check fo"></i>
-                    <h2>Appoinments</h2>
+                    <h2>Appointments</h2>
                     <a href="/AppoinmentDetails">View Appointments</a>
                 </div>
                 <div className='appitem'>
