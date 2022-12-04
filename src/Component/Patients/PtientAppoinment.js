@@ -2,7 +2,7 @@ import '../../Style/PatientDashboard.css';
 function PatientAppoinment() {
     return (
         <div>
-            <h1>Book Your Appoinment</h1>
+            <h1>Book Your Appointment</h1>
             <div className='appointment'>
                 <form className='appoform'>
                     <label className="inpappo" htmlFor="">Doctor

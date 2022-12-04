@@ -6,8 +6,8 @@ function AppoinmentHistory() {
                 <tr>
                     <th scope="col">Doctor Name</th>
                     <th scope="col">Contact</th>
-                    <th scope="col">Appoinment Date</th>
-                    <th scope="col">Appoinment Time</th>
+                    <th scope="col">Appointment Date</th>
+                    <th scope="col">Appointment Time</th>
                     <th scope="col">Current Status</th>
                     <th scope="col">Action</th>
                 </tr>

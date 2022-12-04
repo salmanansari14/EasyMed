@@ -2,7 +2,7 @@ import '../../Style/PatientDashboard.css';
 function AppoinmentDoctor() {
     return (
         <div>
-            <h1>Appoinment Details for Doctor</h1>
+            <h1>Appointment Details for Doctor</h1>
             <div className='appointment'>
                 <table class="table table-striped tbl">
                     <thead>
@@ -10,8 +10,8 @@ function AppoinmentDoctor() {
                             <th scope="col">Full Name</th>
                             <th scope="col">Email</th>
                             <th scope="col">Contact</th>
-                            <th scope="col">Appoinment Date</th>
-                            <th scope="col">Appoinment Time</th>
+                            <th scope="col">Appointment Date</th>
+                            <th scope="col">Appointment Time</th>
                             <th scope="col">Current Status</th>
                             <th scope="col">Action</th>
                         </tr>

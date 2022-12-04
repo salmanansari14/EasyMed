@@ -7,8 +7,8 @@ function About() {
                 <div className='box'>
                     <a href='/Patientlogin'>
                         <i class="fa-solid fa-check fon"></i>
-                        <h2>Make an appoinment</h2>
-                        <p> Here you can book your appoinment very easily just by some click and you appoinment get booked.</p>
+                        <h2>Make an appointment</h2>
+                        <p> Here you can book your appointment very easily just by some click and you appointment get booked.</p>
                     </a>
                 </div>
                 <div className='box'>

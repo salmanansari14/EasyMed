@@ -11,7 +11,7 @@ function AdminDashHome() {
                 <div className='appitem'>
                     <i class="fa-regular fa-calendar-check fo"></i>
                     <h2>Appoinments</h2>
-                    <a href="/AppoinmentDetails">View Appoinments</a>
+                    <a href="/AppoinmentDetails">View Appointments</a>
                 </div>
                 <div className='appitem'>
                     <i class="fa-solid fa-user-group fo"></i>

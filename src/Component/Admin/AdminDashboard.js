@@ -26,7 +26,7 @@ function AdminDashboard() {
                             <td><a className='anc' href='/PatientList'> Patient List</a></td>
                         </tr>
                         <tr className='dashitem'>
-                            <td><a className='anc' href='/AppoinmentDetails'>Appoinment History</a></td>
+                            <td><a className='anc' href='/AppoinmentDetails'>Appointment History</a></td>
                         </tr>
                         <tr className='dashitem'>
                             <td><a className='anc' href='/AddDoctor'>Add Doctor</a></td>
