@@ -18,44 +18,37 @@ function PatientList() {
                         <tr>
                             <td>Adarsh</td>
                             <td>Mishra</td>
-                            <td>@mdo</td>
-                            <td>@mdo</td>
-                            <td>@mdo</td>
+                            <td>Kumar05@gmail.com</td>
+                            <td>9576007411</td>
+                            <td>Adarsh2345@3</td>
                         </tr>
                         <tr>
                             <td>Salman</td>
                             <td>Ansari</td>
-                            <td>@fat</td>
-                            <td>@fat</td>
-                            <td>@fat</td>
+                            <td>salmanansari14@gmail.com</td>
+                            <td>7845256354</td>
+                            <td>Salman1@</td>
                         </tr>
                         <tr>
                             <td>Imran</td>
                             <td>Shiekh</td>
-                            <td>@fat</td>
-                            <td>@fat</td>
-                            <td>@fat</td>
+                            <td>Imran14@gmail.com</td>
+                            <td>7458671413</td>
+                            <td>Imransekh321#</td>
                         </tr>
                         <tr>
                             <td>Ashutosh</td>
                             <td>Kesarwani</td>
-                            <td>@fat</td>
-                            <td>@fat</td>
-                            <td>@fat</td>
+                            <td>Ashut4@gmail.com</td>
+                            <td>8764867413</td>
+                            <td>abc135##</td>
                         </tr>
                         <tr>
                             <td>Rizwanul</td>
                             <td>Hasan</td>
-                            <td>@fat</td>
-                            <td>@fat</td>
-                            <td>@fat</td>
-                        </tr>
-                        <tr>
-                            <td>Jacob</td>
-                            <td>Thornton</td>
-                            <td>@fat</td>
-                            <td>@fat</td>
-                            <td>@fat</td>
+                            <td>Rizwan123@gmail.com</td>
+                            <td>8360325641</td>
+                            <td>Rizwan1@</td>
                         </tr>
                     </tbody>
                 </table>

@@ -16,7 +16,7 @@ function DoctorLogin() {
                     </div>
                     <div>
                         <span><a href="/">Don't have an accoutn</a></span>
-                        <button className='buttonn'> <a href="/loggedd"> Login</a></button>
+                        <button className='buttonn'> <a href="/loggedd">Login</a></button>
                     </div>
                 </form>
             </div>

@@ -11,7 +11,7 @@ function DoctorDashboard() {
         <div className='apmnt main'>
             <h1 className='heddash'>Welcome Dr. Salman Ansari</h1>
             <div className="appointment">
-                <table class=" w-25 mx-3 table tbl">
+                <table class=" w-25 mx-3 table tbl tt">
                     <tbody>
                         <tr className='dashitem'>
                             <td className='tdd'> <a className='anc' href='/d'>Dashboard</a></td>

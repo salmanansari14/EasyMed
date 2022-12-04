@@ -5,9 +5,7 @@ function Footer() {
             <nav className='navbarfut'>
                 <ul className='ulfut ulfutmain'>
                     <h2>THANK YOU</h2>
-                    <li className='ullifut'> <a className='alifut' href="/salmanansari14/EasyMed.git">Home </a></li>
-                    <li className='ullifut'> <a className='alifut' href="/About"> About Us </a></li>
-                    <li className='ullifut'> <a className='alifut' href="/Contact"> Contact </a> </li>
+                    <p>Have a good health !</p>
                 </ul>
                 <ul className='ulfut'>
                     <h2>KNOW ME</h2>
@@ -17,7 +15,7 @@ function Footer() {
                 </ul>
                 <ul className='ulfut'>
                     <h2>CONACT US</h2>
-                    <span>abcxxxxxxxx@gmail.com</span>
+                    <span>abcxxxxxxx@gmail.com</span>
                     <div className='icondiv'>
                         <i className=" media-icons fa-brands fa-linkedin"></i>
                         <i className=" media-icons fa-brands fa-facebook-square"></i>
@@ -27,7 +25,7 @@ function Footer() {
                 </ul>
             </nav>
             <hr className='hrwid'></hr>
-            <p className='cpy'>&copy; dfghld tggthf hf fhhfgltyuuutyututu</p>
+            <p className='cpy'>&copy; Copyright : Hospital Management website (EASYMED)</p>
         </div>
     )
 }

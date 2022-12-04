@@ -14,7 +14,7 @@ function AdminDashboard() {
         <div className=' main apmnt'>
             <h1 className='heddash'>Salman Ansari (Admin) </h1>
             <div className="appointment">
-                <table class=" w-25 mx-3 table tbl">
+                <table class="w-25 mx-3 table tbl tt">
                     <tbody>
                         <tr className='dashitem'>
                             <td><a className='anc' href='/a'> Dashboard</a></td>
