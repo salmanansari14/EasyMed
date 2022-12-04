@@ -120,3 +120,29 @@
   .icondiv{
     margin: 25px 2px;
   }
+
+  @media(max-width:686px) {
+    .navbarfut{
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        margin: 10px 20px;
+    }
+    .ulfutmain{
+        /* display: flex; */
+        margin-right: 0px;
+        margin-bottom: 30px;
+    }
+    .ufut{
+        margin: 20px 0px;
+    }
+    .cpy{
+        text-align: left;
+        margin: 10px 10px;
+    }
+    .hrwid{
+        width: 70%;
+        margin: 20px 10px;
+    }
+
+  }
